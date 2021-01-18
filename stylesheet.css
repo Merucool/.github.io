@@ -152,9 +152,9 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  top: 37%;
+  top: -50px;
   width: 100%;
-  color: white;
+  color: black;
 }
 
 .text-contents {
@@ -162,7 +162,7 @@ header {
   display: inline-block;
   margin-top: 15px;
   font-size: 13px;
-  color: #b3aeb5;
+  color: #b3aeff;
 }
 
 .heading h3 {
@@ -189,7 +189,7 @@ header {
 }
 
 footer img {
-  width: 125px;
+  width: 40px;
 }
 
 footer p {
