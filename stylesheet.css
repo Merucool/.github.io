@@ -41,6 +41,10 @@ a {
   text-align: center;
 }
 
+.btn-wrapper{
+  float:left;
+}
+
 .btn-wrapper p {
   margin-bottom: 20px;
 }
@@ -141,7 +145,7 @@ header {
 }
 
 .jacket img {
-  width:200px;
+  width:250px;
   height:auto;
 }
 
