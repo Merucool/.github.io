@@ -49,11 +49,6 @@ a {
   background-color: #239b76;
 }
 
-.facebook {
-  background-color: #3b5998;
-  margin-right: 10px;
-}
-
 .twitter {
   background-color: #55acee;
 }
@@ -136,21 +131,21 @@ header {
   font-weight: normal;
 }
 
-.lesson {
+.jacket {
   float: left;
   width: 20%;
 }
 
-.lesson-icon {
+.jacket-icon {
   position: relative;
 }
 
-.lesson-icon img {
-  width:250px;
+.jacket img {
+  width:200px;
   height:auto;
 }
 
-.lesson-icon p {
+.jacket-icon p {
   position: absolute;
   top: -50px;
   width: 100%;
@@ -268,11 +263,11 @@ footer {
     font-size: 14px;
   }
 
-  .lesson {
+  .jacket {
     width: 100%;
   }
 
-  .lesson-wrapper {
+  .jacket-wrapper {
     height: 1700px;
   }
 
