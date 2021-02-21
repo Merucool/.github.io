@@ -84,7 +84,7 @@ header {
 }
 
 .logo {
-  width: 20px;
+  width: 30px;
   margin-top: 20px;
 }
 
@@ -161,7 +161,7 @@ header {
   display: inline-block;
   margin-top: 15px;
   font-size: 13px;
-  color: #b3aeff;
+  color: #d2691e;
 }
 
 .heading h3 {
